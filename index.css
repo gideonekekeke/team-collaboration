@@ -5,3 +5,8 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.card {
+  background-color: red;
+  color: white;
+}
